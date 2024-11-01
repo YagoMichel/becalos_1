@@ -1,7 +1,7 @@
-#Hola Git
+# Hola Git
 
--aprender Git
--aprender HTML
--aprender CSS
+- Aprender Git
+- Aprender HTML
+- Aprender CSS
 
 tambien necesitamos *JS*
